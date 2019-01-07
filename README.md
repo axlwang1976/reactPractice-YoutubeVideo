@@ -3,7 +3,7 @@
 
 ## 使用技術
 React: create-react-app, React CSS module<br>
-API: Google YouTube API<br>
+API: Google YouTube API, axios<br>
 CSS: Semantic UI
 
 ## 說明
